@@ -14,5 +14,5 @@ print('flutter ')
 }
 
 ```
-
-[![Image alt text](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE-ID](https://www.youtube.com/live/7BUecmIo2RM?si=_wyIjwU-rOYmRTKD))
+[![Less Than Jake — Scott Farcas Takes It On The Chin](https://www.youtube.com/live/7BUecmIo2RM?si=_wyIjwU-rOYmRTKD)
+https://www.youtube.com/live/7BUecmIo2RM?si=_wyIjwU-rOYmRTKD
