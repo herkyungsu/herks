@@ -14,5 +14,5 @@ print('flutter ')
 }
 
 ```
-[![Less Than Jake — Scott Farcas Takes It On The Chin](https://www.youtube.com/live/7BUecmIo2RM?si=_wyIjwU-rOYmRTKD)
+[![Image alt text](https://www.youtube.com/live/7BUecmIo2RM?si=_wyIjwU-rOYmRTKD)
 https://www.youtube.com/live/7BUecmIo2RM?si=_wyIjwU-rOYmRTKD
